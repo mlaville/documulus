@@ -1,0 +1,19 @@
+
+- appBao.js /* Appel les composants de l'application */
+
+<script type="text/javascript" src="./js/panelLogin.js"></script>
+<script type="text/javascript" src="./js/formActivite.js"></script>
+<script type="text/javascript" src="./js/formUser.js"></script>
+<script type="text/javascript" src="./js/formCommission.js"></script>
+<script type="text/javascript" src="./js/formDocGed.js"></script>
+<script type="text/javascript" src="./js/file-upload.js"></script>
+<script type="text/javascript" src="./js/menuSelectColonne.js"></script>
+<script type="text/javascript" src="./js/panelList.js"></script>
+<script type="text/javascript" src="./js/panelListActivite.js"></script>
+<script type="text/javascript" src="./js/panelListUser.js"></script>
+<script type="text/javascript" src="./js/panelListCommission.js"></script>
+<script type="text/javascript" src="./js/panelListDocGed.js"></script>
+<script type="text/javascript" src="./js/panelListChrono.js"></script>
+<script type="text/javascript" src="./js/vp.js"></script>
+
+- appBao.js /* Appel les composants de l'application */

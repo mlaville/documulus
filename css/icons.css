@@ -1,0 +1,86 @@
+/*  
+// Icon Classes */
+.icon-database {
+	background-image:url(../img/icons/database.png) ! important;
+}
+.icon-database-connect {
+	background-image:url(../img/icons/database_connect.png) ! important;
+}
+.icon-database-deconnect {
+	background-image:url(../img/icons/disconnect.png) ! important;
+}
+
+.icon-lock-edit {
+	background-image:url(../img/icons/lock_edit.png) ! important;
+}
+
+.icon-form-add {
+	background-image:url(../img/icons/application_form_add.png) ! important;
+}
+
+.icon-database-save {
+	background-image:url(../img/icons/database_save.png) ! important;
+}
+
+.icon-loupe {
+	background-image:url(../img/icons/magnifier.png) ! important;
+}
+
+.icon-telecharge {
+	background-image:url(../img/icons/page_go.png) ! important;
+}
+
+.icon-email-edit {
+	background-image:url(../img/icons/email_edit.png) ! important;
+}
+.icon-trash {
+	background-image:url(../img/icons/trash.png) ! important;
+}
+.icon-folder-add {
+	background-image:url(../img/icons/folder_add.png) ! important;
+}
+.icon-folder-page {
+	background-image:url(../img/icons/folder_page.png) ! important;
+}
+.icon-folder-user {
+	background-image:url(../img/icons/folder_user.png) ! important;
+}
+
+.icon-user-add {
+	background-image:url(../img/icons/user_add.png) ! important;
+}
+
+.icon-explore {
+	background-image:url(../img/icons/folder_explore.png) ! important;
+}
+.icon-table-export {
+	background-image:url(../img/icons/table_go.png) ! important;
+}
+
+.icon-formulaire-ajout {
+	background-image:url(../img/icons/application_form_add.png) ! important;
+}
+.icon-formulaire-supprime {
+	background-image:url(../img/icons/application_form_delete.png) ! important;
+}
+.icon-selection-voir {
+	background-image:url(../img/icons/eye.png) ! important;
+}
+
+.icon-chart {
+	background-image:url(../img/silk/icons/chart_bar.png) ! important;
+}
+
+
+.x-form-field-wrap .x-trigger-disabled {
+	cursor:default;
+	opacity:0.5;
+	background-position:0 0;
+}
+.x-form-field-wrap .trigger-tree {
+	background-image: url(../img/trigger-tree.png);
+	cursor:pointer;
+}
+
+/*  Icon Classes end */
+

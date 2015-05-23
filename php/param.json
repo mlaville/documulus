@@ -1,0 +1,10 @@
+{
+	"societe" : "polinux",
+	"courriel" : "marc.laville@polinux.net",
+	"mail_demandeLogin" : "marc.laville@polinux.net",
+	"mail_expediteurNotification" : "marc.laville@polinux.net",
+	"txt_demandeLogin" : "Informations",
+	"rep_photo" : "../album/img/",
+	"esc_apostrophe" : 1,
+	"os_serveur" : "linux"
+}
